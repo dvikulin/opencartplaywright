@@ -1,0 +1,4 @@
+Exception occurred while clicking 'Search': Error: locator.click: Target page, context or browser has been closed
+Call log:
+  - waiting for locator('#search button[type="button"]')
+

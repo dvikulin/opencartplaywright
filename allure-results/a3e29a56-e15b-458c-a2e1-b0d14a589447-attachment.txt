@@ -1,0 +1,9 @@
+✅ Registration is completed!
+✅ Logout is completed!
+✅ Login is completed!
+✅ Product added to cart!
+🛒 Navigated to shopping cart!
+Unable to retrieve total price: Error: locator.textContent: Test timeout of 30000ms exceeded.
+Call log:
+  - waiting for locator('//*[@id=\'content\']/div[2]/div/table//strong[text()=\'Total:\']//following::td')
+

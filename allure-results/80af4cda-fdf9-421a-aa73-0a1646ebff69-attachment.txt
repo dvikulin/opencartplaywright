@@ -1,0 +1,1 @@
+URL after login: http://localhost/opencart/index.php?route=account/login&language=en-gb
