@@ -1,0 +1,9 @@
+URL after login: http://localhost/opencart/index.php?route=account/login&language=en-gb
+Current URL: http://localhost/opencart/index.php?route=account/account&language=en-gb&customer_token=6ad45f522de2511f6e35a208cb
+Error checking My Account page: Error: locator.waitFor: Error: strict mode violation: getByRole('heading', { name: 'My Account' }) resolved to 2 elements:
+    1) <h1>My Account</h1> aka locator('h1')
+    2) <h5>My Account</h5> aka getByRole('contentinfo').getByRole('heading', { name: 'My Account' })
+
+Call log:
+  - waiting for getByRole('heading', { name: 'My Account' }) to be visible
+

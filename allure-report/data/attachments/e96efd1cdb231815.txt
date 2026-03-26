@@ -1,0 +1,3 @@
+URL after registration submit: http://localhost/opencart/index.php?route=account/register&language=en-gb
+Heading after submit: Register Account
+Warning after submit: null
